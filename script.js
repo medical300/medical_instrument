@@ -109,7 +109,7 @@ showProducts();
 showCart();
 showProducts();
 showCart();// Yahan apna WhatsApp number likhein: 92 + number (shuru ka 0 hata kar), bina space ke
-const WHATSAPP_NUMBER = "9232004980196";
+const WHATSAPP_NUMBER = "923004980196";
 
 function placeOrder() {
   const name = document.getElementById("cust-name").value.trim();
